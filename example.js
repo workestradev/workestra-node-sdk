@@ -12,7 +12,7 @@ workestra.setBasicAuth('{Email}','{Password}');
 
 
 //list the latest notification
-workestra.listNotification(function(response){
+workestra.listNotifications(function(response){
 
 console.log(response);
 

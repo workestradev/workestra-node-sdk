@@ -31,7 +31,7 @@ workestraSDK.prototype.setApiKey = function(key) {
 
 }
 
-workestraSDK.prototype.listNotification = function(callback) {
+workestraSDK.prototype.listNotifications = function(callback) {
 
 
 
